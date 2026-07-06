@@ -6,6 +6,6 @@ class Solution(object):
                 nums.pop(i)
                 continue
             i+=1
-        return len(nums)
+        return i+1
         
         
