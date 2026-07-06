@@ -1,11 +1,11 @@
 class Solution(object):
     def removeDuplicates(self, nums):
-        i=0
-        while i < len(nums)-1:
-            if nums[i]==nums[i+1]:
-                nums.pop(i)
-                continue
-            i+=1
-        return i+1
+        write_index = 1
+        for i in range(1,len(nums)):
+            if nums[i]!=nums[i-1]:
+                nums[write_index]=nums[i]
+                write_index +=1
+            
+        return write_index
         
         
