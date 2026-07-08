@@ -4,16 +4,18 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        left = 0
-        maxcount = 0
+        count =0
+        ans = 0
 
-        for right in range(len(nums)):
-            if nums[right] == 0:
-                left = right + 1
+        for i in range(len(nums)):
+            if nums[i]==1:
+                count+=1
+                ans = max(ans,count)
+
             else:
-                maxcount = max(maxcount, right - left + 1)
+                count = 0
 
-        return maxcount
+        return ans
 
 
         
