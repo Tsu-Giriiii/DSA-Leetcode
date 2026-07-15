@@ -4,6 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
+        #Brute Force
         d = {}
         maj = []
         for num in nums:
@@ -16,4 +17,5 @@ class Solution(object):
             if d[num]>len(nums)/3:
                 maj.append(num)
         return maj
+
         
