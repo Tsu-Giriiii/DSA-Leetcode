@@ -9,11 +9,7 @@ class Solution:
             prefixGCD.append(math.gcd(nums[i],mx))
         prefixGCD.sort()
         total = 0
-        left = 0
-        right = len(prefixGCD)-1
-        while left<right:
-            pair = math.gcd(prefixGCD[left],prefixGCD[right])
+        for i in range(int(len(prefixGCD)/2)):
+            pair = math.gcd(prefixGCD[i],prefixGCD[len(prefixGCD)-1-i])
             total+=pair
-            left +=1
-            right-=1
         return total
