@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
 |  |
 | ------- |
@@ -130,4 +135,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
