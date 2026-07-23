@@ -10,7 +10,7 @@ class Solution(object):
         :type l2: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        s1 = ""
+        '''s1 = ""
         s2 = ""
         temp = l1
         while temp!=None:
@@ -30,4 +30,26 @@ class Solution(object):
             new = ListNode(int(res[i]),None)
             temp.next = new
             temp = temp.next
-        return l3
+        return l3'''
+
+        dummy = ListNode(0)
+        tail = dummy
+
+        carry = 0
+
+        while l1 or l2 or carry:
+            total = carry
+
+            if l1:
+                total+=l1.val
+                l1 = l1.next
+            if l2:
+                total+=l2.val
+                l2 = l2.next
+            digit = total%10
+            carry = total//10
+            tail.next = ListNode(digit,None)
+            tail = tail.next
+
+        return dummy.next
+            
