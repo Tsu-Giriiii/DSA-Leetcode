@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -163,4 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0392-is-subsequence](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0392-is-subsequence) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
