@@ -15,7 +15,6 @@ class Solution(object):
 
         ans = nums[0]
 
-        dp = [[nums[0]],nums[0]]
         for i in range(1,len(nums)):
             prev_max = new_max
             prev_min = new_min
@@ -23,7 +22,6 @@ class Solution(object):
             new_max = max(prev_min*nums[i], nums[i],prev_max*nums[i])
             new_min = min(prev_max*nums[i],nums[i],prev_min*nums[i])
 
-            dp.append([new_min,new_max])
             ans = max(ans,new_max)
 
         return ans
