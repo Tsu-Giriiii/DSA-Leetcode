@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0645-set-mismatch) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0189-rotate-array) |
+| [0486-predict-the-winner](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Simulation
 |  |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0486-predict-the-winner](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 ## Stack
 |  |
 | ------- |
@@ -224,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0493-reverse-pairs) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
