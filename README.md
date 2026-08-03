@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0493-reverse-pairs](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Greedy
