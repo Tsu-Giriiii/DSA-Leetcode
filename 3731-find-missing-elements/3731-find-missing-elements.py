@@ -21,9 +21,10 @@ class Solution(object):
         f = min(nums)
         l = max(nums)
 
+        s = set(nums)
         ans = []
         for i in range(f,l):
-            if i not in nums:
+            if i not in s:
                 ans.append(i)
         
         return ans
