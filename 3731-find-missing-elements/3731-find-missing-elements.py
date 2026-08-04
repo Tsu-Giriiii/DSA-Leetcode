@@ -18,12 +18,12 @@ class Solution(object):
         return ans'''
 
         #Better Approach
-        first = min(nums)
-        last = max(nums)
+        f = min(nums)
+        l = max(nums)
 
         ans = []
-        for num in range(first,last):
-            if num not in nums:
-                ans.append(num)
+        for i in range(f,l):
+            if i not in nums:
+                ans.append(i)
         
         return ans
