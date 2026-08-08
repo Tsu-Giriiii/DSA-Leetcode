@@ -1,8 +1,17 @@
 class Solution(object):
     def canMakeSubsequence(self, s, t):
         n = len(s)
-        i = j = 0
+        i = 0
+        j = 0
+
         for c in t:
-            j = max(j + (j < n and c == s[j]), i + 1)
-            i += i < n and c == s[i]
+
+            if j < n and c == s[j]:
+                j += 1
+
+            j = max(j, i + 1)
+
+            if i < n and c == s[i]:
+                i += 1
+
         return j >= n
