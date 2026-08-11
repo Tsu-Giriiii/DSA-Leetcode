@@ -1,38 +1,56 @@
 class Solution:
     def stoneGameII(self, piles):
+        #dp[i][m] max score difference alice can get from position i if M = m
+        # we need to find dp[0][1], initially we can max to max 2 piles
+        #dp[0][1] = max(piles[0]-dp[1][1]+piles[0]-dp[1][2]), piles[0]+piles[1](-dp[2][1],-dp[2][2],-dp[2][3],-dp[2][4])
+        # so we need to start from rightmost element
+        #dp[n-1][m] = piles[n] for all values of m because only 1 element can be fetched
+        #dp[n-2][m] = we two options take 1 or take 2
+        #             max(piles[n-2]-dp[n-1][1],(piles[n-2]+piles[n-1])-dp[n-1][2])
+        #So that gives the recurrence as follows
+        # score_difference = current_pile - min(opponent_sd)
+        #dp[i][m] = max()
+        
+        
         n = len(piles)
 
-        # suffix[i] = total stones from i to the end
+        # suffix[i] = total stones from i to n-1
         suffix = [0] * (n + 1)
 
         for i in range(n - 1, -1, -1):
             suffix[i] = suffix[i + 1] + piles[i]
 
-        memo = {}
+        # dp[i][M] = maximum stones current player can collect
+        # starting from index i with current M
+        dp = [[0] * (n + 1) for _ in range(n + 1)]
 
-        def dp(i, M):
-            # All remaining piles can be taken
-            if i >= n:
-                return 0
+        # Base case:
+        # If i == n, there are no piles left -> 0 stones
 
-            if 2 * M >= n - i:
-                return suffix[i]
+        for i in range(n - 1, -1, -1):
+            for M in range(1, n + 1):
 
-            if (i, M) in memo:
-                return memo[(i, M)]
+                # If we can take all remaining piles
+                if 2 * M >= n - i:
+                    dp[i][M] = suffix[i]
+                    continue
 
-            best = 0
+                best = 0
 
-            # Try taking X piles
-            for X in range(1, 2 * M + 1):
-                opponent = dp(i + X, max(M, X))
+                for X in range(1, 2 * M + 1):
+                    new_M = max(M, X)
 
-                # Total remaining - opponent's best
-                current = suffix[i] - opponent
+                    # Stones we take
+                    taken = suffix[i] - suffix[i + X]
 
-                best = max(best, current)
+                    # Opponent gets the optimal result from there
+                    opponent = dp[i + X][new_M]
 
-            memo[(i, M)] = best
-            return best
+                    # Remaining stones after opponent's optimal play
+                    current = suffix[i] - opponent
 
-        return dp(0, 1)
+                    best = max(best, current)
+
+                dp[i][M] = best
+
+        return dp[0][1]
