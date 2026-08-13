@@ -49,6 +49,7 @@
 | [1929-concatenation-of-array](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -233,6 +234,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0392-is-subsequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Linked List
@@ -263,6 +265,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0493-reverse-pairs) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Merge Sort
 |  |
 | ------- |
@@ -271,6 +274,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0493-reverse-pairs) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Game Theory
 |  |
 | ------- |
