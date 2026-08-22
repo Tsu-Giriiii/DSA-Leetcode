@@ -55,6 +55,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -74,6 +75,7 @@
 | [0493-reverse-pairs](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Greedy
 |  |
@@ -146,6 +148,7 @@
 | [1563-stone-game-v](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -159,6 +162,7 @@
 | [0136-single-number](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
@@ -237,6 +241,7 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -245,6 +250,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
