@@ -6,7 +6,7 @@ class Solution(object):
         """
         lo = 0
         hi = len(nums)-1
-        min_element = float("inf")
+
         while lo < hi:
             mid = lo + (hi-lo)//2
 
