@@ -34,6 +34,7 @@
 | [0485-max-consecutive-ones](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0704-binary-search) |
@@ -76,6 +77,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0493-reverse-pairs](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
