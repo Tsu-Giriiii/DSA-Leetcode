@@ -55,6 +55,7 @@
 | [2029-stone-game-ix](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -115,6 +116,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -242,6 +244,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Enumeration
 |  |
 | ------- |
