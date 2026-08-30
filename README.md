@@ -383,4 +383,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1510-stone-game-iv) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
