@@ -27,8 +27,10 @@ class Solution:
                 if count_vals==k:
                     count_groups+=1
                     count_vals = 0
+                    if count_groups==m:
+                        return True
         
             else:
                 count_vals = 0
         
-        return True if count_groups>=m else False
+        return False
