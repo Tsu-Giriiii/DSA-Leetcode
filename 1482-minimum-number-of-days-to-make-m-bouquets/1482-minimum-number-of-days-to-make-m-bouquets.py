@@ -21,8 +21,8 @@ class Solution:
         
         count_groups = 0
         count_vals = 0
-        for right in range(len(bloomDay)):
-            if bloomDay[right]<=mid:
+        for day in bloomDay:
+            if day<=mid:
                 count_vals+=1
                 if count_vals==k:
                     count_groups+=1
