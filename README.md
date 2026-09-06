@@ -237,6 +237,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -299,6 +300,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0020-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [1927-sum-game](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
