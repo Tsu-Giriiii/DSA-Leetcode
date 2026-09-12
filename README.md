@@ -66,6 +66,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -95,6 +96,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
@@ -131,6 +133,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
@@ -254,6 +257,7 @@
 | [1872-stone-game-viii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Simulation
 |  |
 | ------- |
