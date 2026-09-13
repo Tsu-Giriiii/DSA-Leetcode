@@ -39,6 +39,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1140-stone-game-ii) |
@@ -288,6 +289,7 @@
 | [0048-rotate-image](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0835-image-overlap](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Number Theory
