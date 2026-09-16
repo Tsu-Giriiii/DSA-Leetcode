@@ -5,7 +5,7 @@ class Solution(object):
         :type days: int
         :rtype: int
         """
-        lo = min(weights)
+        lo = max(weights)
         hi = sum(weights)
         res = float('inf')
 
