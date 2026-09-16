@@ -42,6 +42,7 @@
 | [0835-image-overlap](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0877-stone-game) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -95,6 +96,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
