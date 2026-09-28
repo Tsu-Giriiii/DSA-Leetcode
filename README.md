@@ -320,6 +320,7 @@
 | [0115-distinct-subsequences](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -346,6 +347,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -465,4 +467,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
