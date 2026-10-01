@@ -35,6 +35,7 @@
 | [0485-max-consecutive-ones](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0645-set-mismatch) |
@@ -256,6 +257,7 @@
 | [0152-maximum-product-subarray](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1140-stone-game-ii) |
@@ -415,6 +417,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
 |  |
@@ -471,4 +474,12 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
