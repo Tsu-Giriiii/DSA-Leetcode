@@ -44,6 +44,7 @@
 | [0875-koko-eating-bananas](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1049-last-stone-weight-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1140-stone-game-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -260,6 +261,7 @@
 | [0494-target-sum](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1049-last-stone-weight-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1140-stone-game-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1510-stone-game-iv) |
@@ -478,8 +480,10 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
