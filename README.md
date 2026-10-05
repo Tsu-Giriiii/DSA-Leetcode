@@ -325,6 +325,7 @@
 | [0020-valid-parentheses](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0392-is-subsequence) |
+| [0856-score-of-parentheses](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1927-sum-game) |
@@ -353,6 +354,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Heap (Priority Queue)
 |  |
@@ -477,6 +479,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Knapsack Problem
 |  |
