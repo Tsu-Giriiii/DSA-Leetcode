@@ -109,6 +109,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1927-sum-game](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1927-sum-game) |
@@ -326,6 +327,7 @@
 | [0115-distinct-subsequences](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0856-score-of-parentheses](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1927-sum-game) |
@@ -355,6 +357,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Heap (Priority Queue)
 |  |
@@ -480,6 +483,7 @@
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Knapsack Problem
 |  |
