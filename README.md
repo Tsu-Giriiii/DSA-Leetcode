@@ -32,6 +32,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0493-reverse-pairs) |
@@ -258,6 +259,7 @@
 | [0118-pascals-triangle](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0494-target-sum) |
@@ -417,6 +419,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0322-coin-change) |
 | [3310-remove-methods-from-project](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -488,6 +491,7 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0518-coin-change-ii) |
 | [1049-last-stone-weight-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1049-last-stone-weight-ii) |
@@ -499,5 +503,6 @@
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
