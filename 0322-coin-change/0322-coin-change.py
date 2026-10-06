@@ -14,6 +14,5 @@ class Solution:
                     t[i][j] = min(t[i][j-coins[i-1]]+1, t[i-1][j])
                 else:
                     t[i][j] = t[i-1][j]
-
-        print(t[n][amount])    
+  
         return t[n][amount] if t[n][amount] != float('inf') else -1
