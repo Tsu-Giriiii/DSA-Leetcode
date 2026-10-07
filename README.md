@@ -268,6 +268,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1049-last-stone-weight-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1140-stone-game-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1140-stone-game-ii) |
+| [1143-longest-common-subsequence](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1563-stone-game-v) |
@@ -331,6 +332,7 @@
 | [0856-score-of-parentheses](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1143-longest-common-subsequence](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -505,4 +507,8 @@
 | ------- |
 | [0322-coin-change](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
