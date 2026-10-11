@@ -289,6 +289,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Enumeration
 |  |
@@ -416,17 +417,20 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
 |  |
