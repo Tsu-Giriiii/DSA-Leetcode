@@ -14,8 +14,7 @@ class Solution:
         return count
         
     def bfs(self,u,isConnected,seen):
-        q = deque([])
-        q.append(u)
+        q = deque([u])
         while q:
             t = q.popleft()
             for i in range(len(isConnected)):
