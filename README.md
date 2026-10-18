@@ -272,6 +272,7 @@
 | [1092-shortest-common-supersequence](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1563-stone-game-v) |
@@ -340,6 +341,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
