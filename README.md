@@ -110,6 +110,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0044-wildcard-matching) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -254,6 +255,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0118-pascals-triangle) |
@@ -332,6 +334,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -363,6 +366,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0044-wildcard-matching) |
 | [0486-predict-the-winner](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
