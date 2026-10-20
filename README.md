@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -333,6 +334,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
@@ -531,4 +533,8 @@
 | [0583-delete-operation-for-two-strings](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1143-longest-common-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
