@@ -69,6 +69,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2747-count-zero-request-servers](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -130,6 +131,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2747-count-zero-request-servers](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -147,6 +149,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2747-count-zero-request-servers](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -232,6 +235,7 @@
 | [0645-set-mismatch](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [2747-count-zero-request-servers](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
