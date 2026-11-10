@@ -389,6 +389,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0856-score-of-parentheses](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -555,4 +556,12 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
