@@ -274,6 +274,7 @@
 | [0115-distinct-subsequences](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0132-palindrome-partitioning-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0213-house-robber-ii) |
@@ -355,6 +356,7 @@
 | [0044-wildcard-matching](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
+| [0132-palindrome-partitioning-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0392-is-subsequence](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0583-delete-operation-for-two-strings) |
