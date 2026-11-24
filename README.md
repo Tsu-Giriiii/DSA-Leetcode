@@ -123,6 +123,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0044-wildcard-matching) |
+| [0402-remove-k-digits](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -363,6 +364,7 @@
 | [0115-distinct-subsequences](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0392-is-subsequence](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0856-score-of-parentheses](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0856-score-of-parentheses) |
@@ -401,6 +403,7 @@
 | [0020-valid-parentheses](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0735-asteroid-collision) |
@@ -585,6 +588,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Tsu-Giriiii/DSA-Leetcode/tree/master/0907-sum-of-subarray-minimums) |
